@@ -1,13 +1,12 @@
-Hi 👋 My name is Aravind K V
-============================
+<h1 align="center">Halo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aravind K V</h1>
+<strong><h3 align="center">Student</h3></strong>
 
-Student
--------
+
 
 * 🌍  I'm based in Kanchipuram
 * ✉️  You can contact me at [aravind27032002@gmail.com](mailto:aravind27032002@gmail.com)
 * 🧠  I'm learning Cloud And DevOps
-* 🤝  I'm open to collaborating on Different Projects
+* 🤝  I'm open to collaborating on Different and Open Source Projects
 
 ### Skills
 
