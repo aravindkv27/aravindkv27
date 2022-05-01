@@ -2,6 +2,7 @@
 <strong><h3 align="center">Student</h3></strong>
 
 
+## 🙋‍♂️ About Me
 
 * 🌍  I'm based in Kanchipuram
 * ✉️  You can contact me at [aravind27032002@gmail.com](mailto:aravind27032002@gmail.com)
