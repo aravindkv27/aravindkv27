@@ -1,4 +1,4 @@
-<h1 align="center">Halo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aravind K V</h1>
+<h1 align="center">Hallo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aravind K V</h1>
 <strong><h3 align="center">Student</h3></strong>
 
 
