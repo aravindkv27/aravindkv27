@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-* 🌍  I'm based in Kanchipuram
+* 🌍  I'm based in Chennai.
 * ✉️  You can contact me at [aravind27032002@gmail.com](mailto:aravind27032002@gmail.com)
 * 🧠  I'm learning Cloud And DevOps
 * 🤝  I'm open to collaborating on Different and Open Source Projects
