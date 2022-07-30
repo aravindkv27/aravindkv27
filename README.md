@@ -6,8 +6,8 @@
 
 * 🌍  I'm based in Chennai.
 * ✉️  You can contact me at [aravind27032002@gmail.com](mailto:aravind27032002@gmail.com)
-* 🧠  I'm learning Cloud And DevOps
-* 🤝  I'm open to collaborating on Different and Open Source Projects
+* 🧠  Learning Cloud And DevOps
+* 🤝  Open to collaborating on Different and Open Source Projects
 * 🖥️  See my portfolio at [aravindkv27](http://aravindkv27.github.io/)
 
 ### Skills
