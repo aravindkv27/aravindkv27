@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍  I'm based in Chennai.<br>✉️  You can contact me at aravind27032002@gmail.com<br>🧠  Learning Cloud And DevOps<br>🤝 Open to collaborating on Different and Open Source Projects<br>🖥️ See my portfolio at [aravindkv27](https://aravindkv.herokuapp.com/)
+🌍  I'm based in Chennai.<br>✉️  You can contact me at aravind27032002@gmail.com<br>🧠  Learning Cloud And DevOps<br>🤝 Open to collaborating on Different and Open Source Projects<br>
 
 
 ## 🌐 Socials:
