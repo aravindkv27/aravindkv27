@@ -13,4 +13,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aravindkv27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ihkoqo3k7ck4muktod5w54p4oi&cover_image=true&theme=default&show_offline=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
